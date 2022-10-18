@@ -1,7 +1,8 @@
-# BeAcademy_FromZeroToHero_HTML
-Repositório exclusivo para exercícios e replicas das aulas feitas no Bootcamp FZTH
+
+
 # BeAcademy_FromZeroToHero_HTML
 ## Aprendendo HTML5
+Repositório exclusivo para exercícios e replicas das aulas feitas no Bootcamp FZTH
 
 *__Introdução ao Curso:__
 
